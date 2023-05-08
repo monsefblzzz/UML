@@ -4,7 +4,7 @@
 
 # El siguiente diagrama representa la estructura de clases de los tipos de animales de la aplicacion
 
-´´´Java
+```Java
 class Perro{
 
   String raza;
