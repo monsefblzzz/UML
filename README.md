@@ -1,8 +1,8 @@
 # Diagrama de clases
 
-# Animales
+## Animales
 
-# El siguiente diagrama representa la estructura de clases de los tipos de animales de la aplicacion
+El siguiente diagrama representa la estructura de clases de los tipos de animales de la aplicacion
 
 ```Java
 class Perro{
